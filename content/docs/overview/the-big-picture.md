@@ -2,7 +2,7 @@
 title: "The Big Picture"
 ---
 
-Ocelot-Cloud simplifies digital infrastructure management. Its mission, however, extends beyond technology. This <a href="https://www.youtube.com/watch?v=fuFlMtZmvY0" target="_blank" rel="noopener noreferrer">short video</a> highlights the scientific reasons we struggle with today’s digital world.
+Ocelot-Cloud simplifies digital infrastructure management. Its mission, however, extends beyond technology. This {{< external_link "https://www.youtube.com/watch?v=fuFlMtZmvY0" "video" >}} highlights the scientific reasons we struggle with today’s digital world.
 
 ### Problem 1: Human Limits
 

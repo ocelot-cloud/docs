@@ -2,7 +2,7 @@
 title: "Creating Own Apps"
 ---
 
-This article explains how to create new apps and versions in the <a href="https://store.ocelot-cloud.org/" target="_blank" rel="noopener noreferrer">App Store</a>.
+This article explains how to create new apps and versions in the {{< external_link "https://store.ocelot-cloud.org/" "App Store" >}}.
 
 ## What is a version?
 

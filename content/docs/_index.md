@@ -17,9 +17,9 @@ Documentation:
 * [Glossary]({{< relref "docs/glossary/_index.md" >}}): If you don't know a specific abbreviation, take a look here.
 
 Resources:
-* <a href="https://demo.ocelot-cloud.org/" target="_blank" rel="noopener noreferrer">Demo Server</a>: Explore Ocelot-Cloud firsthand and experience its capabilities in action.
-* <a href="https://store.ocelot-cloud.org" target="_blank" rel="noopener noreferrer">App Store</a>: Here you can add new apps to the Ocelot ecosystem.
-* <a href="https://github.com/orgs/ocelot-cloud/repositories" target="_blank" rel="noopener noreferrer">GitHub</a>: Contribute to the development of the project.
+* {{< external_link "https://demo.ocelot-cloud.org/" "Demo Server" >}}: Explore Ocelot-Cloud firsthand and experience its capabilities in action.
+* {{< external_link "https://store.ocelot-cloud.org" "App Store" >}}: Here you can add new apps to the Ocelot ecosystem.
+* {{< external_link "https://github.com/orgs/ocelot-cloud/repositories" "GitHub" >}}: Contribute to the development of the project.
 
 {{< alert title="Note" color="warning" >}}
 Ocelot-Cloud is still under active development. The current documentation serves as a preview of the first release.

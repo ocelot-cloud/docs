@@ -16,4 +16,5 @@ If you have an idea for improving the project, such as a feature request or poin
 
 ### Improve Documentation
 
-The content of this website/documentation server is publicly available on <a href="https://github.com/ocelot-cloud/docs" target="_blank" rel="noopener noreferrer">GitHub</a>. If you find a typo, missing information, or have suggestions for improvement, please submit a PR with your changes. The links at the top of the right navigation bar can help you. of The documentation is written in Markdown and deployed using <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>. More detailed development instructions can be found in the `README.md` file.
+The content of this website/documentation server is publicly available on {{< external_link "https://github.com/ocelot-cloud/docs" "GitHub" >}}. If you find a typo, missing information, or have suggestions for improvement, please submit a PR with your changes. The links at the top of the right navigation bar can help you. of The documentation is written in Markdown and deployed using the {{< external_link "https://www.docsy.dev/" "Docsy theme" >}} for {{< external_link "https://gohugo.io/" "Hugo" >}}. More detailed development instructions can be found in the `README.md` file.
+
