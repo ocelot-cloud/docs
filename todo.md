@@ -1,11 +1,9 @@
-add shortcuts for external links reducing duplication:
+add articles:
 
-layouts/shortcodes/checkmark.html:
-<span style="background-color:lightgreen; padding:3px;">✅</span>
-<span style="background-color:lightcoral; padding:3px;">❌</span>
-<a href="{{ .Get 0 }}" target="_blank" rel="noopener noreferrer">{{ .Get 1 }}</a>
-
-use in markdown:
-{{< checkmark >}}
-{{< cross >}}
-{{< external_link "https://github.com/orgs/ocelot-cloud/repositories" "GitHub" >}}
+* architecture
+* certificates
+* setup guide for cloud (when implemented)
+* implementation plan: 
+  * which features are implemented yet
+  * which will be implemented soon
+  * are they free or premium
