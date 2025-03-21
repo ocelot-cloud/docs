@@ -2,11 +2,9 @@
 title: "Creating Own Apps"
 ---
 
-This article explains how to create new apps and versions in the {{< external_link "https://store.ocelot-cloud.org/" "App Store" >}}.
+## What are apps and versions?
 
-## What is a version?
-
-Each app, like the "gitea" source repository app, can have multiple versions, just like any software itself has versions. An app version is a zip file containing a `docker-compose.yml` and an optional `app.yml` for integration with the Ocelot-Cloud. When you download and run an app in the Ocelot-Cloud, it is executing:
+An app is a conceptual label for a software package, such as the software name "gitea" for a source code management software. The detailed configuration required to install an app is defined in its versions. Each version ships with a docker-compose.yml and optionally an app.yml for Ocelot-Cloud integration. Simply put, once installed, Ocelot-Cloud simply runs:
 
 ```sh
 docker compose up -d
@@ -14,7 +12,7 @@ docker compose up -d
 
 ## Where to create my own versions?
 
-Go to **"My Apps"**, create an app, select it, click **"Edit"**. This is the menu to upload a version for an app.
+Go to **My Apps**, create an app, select it, click **Edit**. This is the menu to upload a version for an app.
 
 ## Minimal Example
 
@@ -37,7 +35,7 @@ services:
 
     restart: unless-stopped
     networks:
-      - gitea-net
+      - samplemaintainer_gitea
     cap_drop:
       - ALL
     cap_add:
@@ -49,7 +47,7 @@ services:
       - CAP_DAC_OVERRIDE
 
 networks:
-  gitea-net:
+  samplemaintainer_gitea:
     external: true
 ```
 
