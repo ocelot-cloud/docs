@@ -9,3 +9,5 @@ Restoring an app backup will erase any previously existing data that was not bac
 {{< /alert >}}
 
 By default, only local backups are created on the same device as Ocelot-Cloud. On the Settings page you can enable additional remote backups.
+
+Note that restoring ocelotcloud / postgres only restores the metadata of the apps, not the persistent storage of the apps. This means, for example, that if you want to do a full restore to a new device using a remote backup repository, you must first restore the backup of the ocelotcloud / postgres app, and then restore the backups of each app that you need.
