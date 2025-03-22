@@ -11,11 +11,6 @@ no_list: true
 </div> 
 <br>
 
-Documentation:
-* [Overview]({{< relref "docs/overview/_index.md" >}}): Get a general idea of the topic.
-* [User Guides]({{< relref "docs/user-guides/_index.md" >}}): Articles about software usage and project participation.
-* [Glossary]({{< relref "docs/glossary/_index.md" >}}): If you don't know a specific abbreviation, take a look here.
-
 Resources:
 * {{< external_link "https://demo.ocelot-cloud.org/" "Demo Server" >}}: Explore Ocelot-Cloud firsthand and experience its capabilities in action.
 * {{< external_link "https://store.ocelot-cloud.org" "App Store" >}}: Here you can add new apps to the Ocelot ecosystem.

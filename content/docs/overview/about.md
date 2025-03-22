@@ -2,6 +2,4 @@
 title: "About"
 ---
 
-I am a programmer with a strong interest in privacy, ethics, and digital sovereignty. I always wanted to host my own digital infrastructure for maximum privacy. But the complexity of doing everything from scratch became a real challenge. So I looked for alternatives, but found that existing infrastructure management solutions were insufficient or expensive. I became passionate about finding ways to maintain control over my data without sacrificing convenience. This led me to the idea of writing my own software to automate the tedious aspects of self-hosting and make it accessible to everyone.
-
-Ocelot-Cloud was born from this vision to provide an easy-to-use digital infrastructure management platform for citizens and small or medium sized businesses.
+At Ocelot-Cloud, we are driven by a strong commitment to digital sovereignty, ethics, and usability for less tech-savvy users. We set out to run our own digital infrastructure, but found the complexity daunting and existing solutions either too limited or too expensive. This challenge inspired us to build a tool that gives individuals and small businesses full control over their data without sacrificing convenience. We do good by offering essential features for free, helping everyone gain independence from cloud providers and maintain complete control over their digital infrastructure.

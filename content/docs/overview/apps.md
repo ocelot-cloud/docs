@@ -4,16 +4,7 @@ title: "Apps and Features"
 
 ### Ocelot-Cloud
 
-The actual day-to-day functionality like chat or data cloud comes from the installed apps. Ocelot-Cloud takes care of the system administration in the background. Once an app is installed, Ocelot-Cloud takes care of:
-
-* network configuration
-* certificate management
-* updates
-* backups
-* centralized user and access management
-* user and network traffic monitoring
-* centralized collection and visualization of metrics and logs
-* sending notifications based on collected data
+Ocelot-Cloud only takes care of the system administration. The actual day-to-day functionality like chat or data cloud comes from the installed apps.
 
 ### App Store
 

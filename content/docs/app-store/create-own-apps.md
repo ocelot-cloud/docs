@@ -106,6 +106,8 @@ zip 1.20.2.zip app.yml docker-compose.yml
 
 ## Conventions and Restrictions
 
+This section lists the rules to follow when uploading a version to the App Store. Do not be afraid to upload, the server will automatically check the files for compliance with these rules. If a rule is broken, the upload will fail and the server will provide helpful feedback on what needs to be fixed. Even successfully uploaded versions can be easily deleted if you made a mistake.
+
 ### The version zip file:
 
 - Must contain a `docker-compose.yml`.
