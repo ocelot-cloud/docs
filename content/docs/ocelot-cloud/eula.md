@@ -17,12 +17,14 @@ This End-User License Agreement ("Agreement") is a binding agreement between you
 
 ### **1. License Grant**
 
-The Maintainer grants you a worldwide, non-exclusive, non-transferable, perpetual license to use and redistribute the unmodified Software for any purpose. The Software offers two access levels:
+The Maintainer grants you a worldwide, non-exclusive, non-transferable, perpetual license to use and redistribute the unmodified Software for any purpose, subject to the restrictions set forth in this Agreement. 
+
+You are allowed to use and host either edition of the Software in any way, provided that you do not offer it as Software as a Service (SaaS) or any hosted commercial service accessible by multiple unrelated users. You may, for commercial purposes, set up the Software for third parties so long as those third parties use it as a standalone instance and not in a SaaS or similar multi-user service context.
+
+The Software offers two access levels:
 
 * Freemium Mode: Provides free features and is accessible without a product key.
 * Premium Mode: Unlocks additional premium features when accessed with a valid product key.
-
-You are allowed to use and host either edition of the Software in any way, provided that you do not offer it as Software as a Service (SaaS) or any hosted commercial service accessible by multiple unrelated users. You may, for commercial purposes, set up the Software for third parties so long as those third parties use it as a standalone instance and not in a SaaS or similar multi-user service context.
 
 Product keys for the Premium Edition are personal, non-transferable, and must not be shared, distributed, or transferred to any third party.
 
