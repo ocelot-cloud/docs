@@ -6,6 +6,10 @@ title: Terms and Conditions
 These Terms and Conditions govern your use of the {{<external_link "https://store.ocelot-cloud.org" "App Store">}}. By accessing or using the App Store, you agree to be bound by them. Please read carefully before proceeding.
 {{< /alert >}}
 
+## Terms and Conditions for Ocelot App Store
+
+_Last Updated: 23.03.2025_
+
 ### 1. Acceptance of Terms
 By registering for and using this application, you agree to comply with and be bound by these Terms and Conditions. If you disagree with any part, please do not use the application.
 
