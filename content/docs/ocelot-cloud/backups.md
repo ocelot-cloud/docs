@@ -1,5 +1,6 @@
 ---
 title: "Backups"
+weight: 40
 ---
 
 Ocelot-Cloud can create backups of each app on the Installed Apps page. On the "Backups" page you can view and restore backups of apps.

@@ -1,5 +1,6 @@
 ---
 title: "Installed Apps"
+weight: 10
 ---
 
 On the Installed Apps page, you can manage your apps. Intuitively, you can:
