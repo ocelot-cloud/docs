@@ -3,12 +3,12 @@ title: Terms and Conditions
 ---
 
 {{< alert title="Note" color="warning" >}}
-These Terms and Conditions govern your use of the {{<external_link "https://store.ocelot-cloud.org" "App Store">}}. By accessing or using the App Store, you agree to be bound by them. Please read carefully before proceeding.
+These Terms and Conditions govern your use of the {{<external_link "https://store.ocelot-cloud.org" "App Store">}}.
 {{< /alert >}}
 
 ## Terms and Conditions for Ocelot App Store
 
-_Last Updated: 23.03.2025_
+_Last Updated: 24.03.2025_
 
 ### 1. Acceptance of Terms
 By registering for and using this application, you agree to comply with and be bound by these Terms and Conditions. If you disagree with any part, please do not use the application.
@@ -40,13 +40,16 @@ You agree not to:
 - **User-Uploaded Content:** As per Section 3, all user-uploaded content is licensed under the 0BSD License.
 
 ### 8. Termination
+
 We reserve the right to terminate or suspend your access to the application at our sole discretion, without prior notice, if you violate these Terms and Conditions.
 
 ### 9. Governing Law
+
 These Terms and Conditions are governed by the laws of the Federal Republic of Germany. Any disputes arising from these terms shall be resolved in the courts of Bremen, Germany.
 
 ### 10. Modifications to Terms
-We may update these Terms occasionally. Continued use of the application implies acceptance of any changes.
+
+The Maintainer may modify this Agreement from time to time. When updates occur, you will be notified and asked to review and accept the new terms before continuing to use the Software. Continued use without such acceptance is not permitted.
 
 ### 11. Data Privacy
 - **Collection of Personal Data:** We collect personal information, such as email addresses, solely for the purpose of preventing bot registrations, informing registered users on changes and potential account changes.

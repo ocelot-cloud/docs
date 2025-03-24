@@ -4,12 +4,12 @@ weight: 100
 ---
 
 {{< alert title="Note" color="warning" >}}
-This EULA governs your use of the Ocelot-Cloud software. By accessing or using Ocelot-Cloud, you agree to be bound by it. Please read carefully before proceeding.
+This EULA governs your use of the Ocelot-Cloud software.
 {{< /alert >}}
 
 ## End-User License Agreement (EULA) for Ocelot-Cloud
-
-_Last Updated: 23.03.2025_
+proceed
+_Last Updated: 24.03.2025_
 
 This End-User License Agreement ("Agreement") is a binding agreement between you ("User" or "You") and Christoph Baier ("Maintainer"). By downloading, installing, or using Ocelot-Cloud ("Software"), you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not download, install, or use the Software.
 
@@ -80,7 +80,7 @@ This Agreement is effective until terminated. If you violate any terms of this A
 
 ### **12. Amendments**
 
-The Maintainer reserves the right to modify this Agreement at any time. When updates occur, the new EULA will be included with the updated version of the Software. By continuing to use the Software after any changes, you agree to be bound by the revised Agreement.
+The Maintainer may modify this Agreement from time to time. When updates occur, you will be notified and asked to review and accept the new terms before continuing to use the Software. Continued use without such acceptance is not permitted.
 
 ### **13. Entire Agreement**
 
@@ -90,10 +90,6 @@ This Agreement constitutes the entire understanding between you and the Maintain
 
 If any provision of this Agreement is found to be unenforceable or invalid, the remaining provisions shall remain in full force and effect.
 
-### **15. Acceptance**
-
-By downloading, installing, or using the Software, you acknowledge that you have read, understood, and agree to be bound by this Agreement.
-
-### **16. Contact Information**
+### **15. Contact Information**
 
 For inquiries or to report security vulnerabilities, please use the contact information provided on the [Contact](/docs/contact) page.

@@ -42,19 +42,15 @@ Create user accounts and assign them to friends, co-workers, etc. so they can ac
 ## Upcoming Features
 | Feature         |      Free       |     Premium     |
 |-----------------|:---------------:| :-------------: |
-| Public Instance | {{<checkmark>}} | {{<checkmark>}} |
 | OIDC Server     |   {{<cross>}}   | {{<checkmark>}} |
 | Groups          |   {{<cross>}}   | {{<checkmark>}} |
+| Public Instance | {{<checkmark>}} | {{<checkmark>}} |
 | Auto Setup      |   {{<cross>}}   | {{<checkmark>}} |
 | Monitoring      |   {{<cross>}}   | {{<checkmark>}} |
 | Log Collection  |   {{<cross>}}   | {{<checkmark>}} |
 | Notifications   |   {{<cross>}}   | {{<checkmark>}} |
 
 ## Feature Description
-
-### Public Instance
-
-This feature set supports the foundation of public clouds. Apps can be made public, allowing anonymous users to access them without logging in to the Ocelot-Cloud. This is ideal for blogs, forums or public websites. In addition, self-registration can be enabled, allowing users to create their own local Ocelot-Cloud accounts to access the apps.
 
 ### OIDC Server
 
@@ -63,6 +59,10 @@ Without single sign-on, users would need separate accounts for each app. Ocelot-
 ### Groups
 
 Groups provide granular access control. Users are assigned to groups, and groups are granted access to apps. This makes managing permissions easier, especially in larger organizations.
+
+### Public Instance
+
+This feature set supports the foundation of public clouds. Apps can be made public, allowing anonymous users to access them without logging in to the Ocelot-Cloud. This is ideal for blogs, forums or public websites. In addition, self-registration can be enabled, allowing users to create their own local Ocelot-Cloud accounts to access the apps.
 
 ### Auto Setup
 
