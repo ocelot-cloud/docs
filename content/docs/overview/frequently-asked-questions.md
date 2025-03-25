@@ -47,3 +47,6 @@ By hosting your own cloud with Ocelot-Cloud, you eliminate the need to trust ext
 
 Ocelot-Cloud is designed to be resource efficient, so it can run on minimal hardware. The actual hardware requirements depend on the apps you install. To determine the right hardware, check the CPU, memory, and disk space requirements of each app. If you're unsure, choose a system with more resources. For environments with limited hardware, you can explicitly choose hardware-efficient apps that allow the Ocelot-Cloud infrastructure to run on low-end devices.
 
+### Is Ocelot-Cloud open source?
+
+Not currently. We're open to releasing a community edition under a business source or open source license in the future. However, open-sourcing early can introduce risks and overhead. For now, we're focused on building a sustainable business to support ongoing development. Once that's in place, we'll revisit the idea of a community edition.
