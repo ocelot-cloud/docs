@@ -25,7 +25,7 @@ You shall not:
 When downloading content using the Products, you assume all risks. The content may reference third-party sources, and you accept responsibility for assessing their safety and legality.
 
 ### 1.4 Warranty Disclaimer
-The Products are provided “as is,” without warranties of any kind, express or implied. The Maintainer disclaims all implied warranties, including merchantability, fitness for a particular purpose, and non-infringement. We reserve the right to provide (or not provide) support, maintenance, or updates for the Products at our sole discretion.
+The Products are provided "as is," without warranties of any kind, express or implied. The Maintainer disclaims all implied warranties, including merchantability, fitness for a particular purpose, and non-infringement. We reserve the right to provide (or not provide) support, maintenance, or updates for the Products at our sole discretion.
 
 ### 1.5 Limitation of Liability
 To the fullest extent permitted by law, the Maintainer is not liable for any direct or indirect damages related to your use or inability to use the Products. This does not limit liability for intentional misconduct or gross negligence where required by law.
@@ -46,7 +46,7 @@ This EULA constitutes the entire agreement for the Products. If any part is foun
 For inquiries or security reports, visit our [Contact](/docs/contact) page.
 
 ### 1.11 Intellectual Property & Ownership
-The Cloud and all content or materials provided by the App Store (excluding user-uploaded content) are the property of Christoph Baier (“Maintainer”) and are protected by copyright and other intellectual property laws. This EULA does not transfer ownership or any intellectual property rights from the Maintainer to you. All rights not expressly granted are reserved by the Maintainer.
+The Cloud and all content or materials provided by the App Store (excluding user-uploaded content) are the property of Christoph Baier ("Maintainer") and are protected by copyright and other intellectual property laws. This EULA does not transfer ownership or any intellectual property rights from the Maintainer to you. All rights not expressly granted are reserved by the Maintainer.
 
 ### 1.12 Export Compliance
 You agree to comply with all applicable export and import control laws and regulations, including those of Germany and other jurisdictions. You shall not export or re-export the Cloud in violation of any such laws or regulations.
