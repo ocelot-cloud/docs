@@ -92,7 +92,7 @@ You may use the App Store for any lawful purpose. You remain bound by the Prohib
 By uploading content, you confirm it is free of harmful code and licensed under the {{<external_link "https://opensource.org/license/0bsd" "0BSD License">}}. You must not upload content that instructs others to download or execute malicious applications. The Maintainer does not claim ownership of user-uploaded content.
 
 ### 3.3 Personal Data
-We collect personal data (e.g., email) solely for account management and notifications. We do not sell, share, or use it to train AI models. We implement reasonable measures to protect your data. You may access, correct, or delete your personal data through the App Store.
+We collect email addresses solely for account management, notifications, and to prevent bot account creation. We do not sell, share, or use it to train AI models. We implement reasonable measures to protect your data. You may access, correct, or delete your personal data through the App Store.
 
 ### 3.4 Termination
 We may suspend or terminate your App Store account if you violate this EULA. You must discontinue use of the App Store immediately upon termination.
