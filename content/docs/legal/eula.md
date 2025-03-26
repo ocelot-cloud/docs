@@ -2,7 +2,7 @@
 title: "End-User License Agreement"
 ---
 
-_Last Updated: 25.03.2025_
+_Last Updated: 26.03.2025_
 
 This End User License Agreement ("EULA") governs your use of the Ocelot-Cloud (the "Cloud") and the Ocelot App Store (the "App Store"), collectively the "Products". By accessing or using any of the Products, you agree to be bound by these terms.
 
@@ -63,7 +63,10 @@ Provisions relating to Intellectual Property & Ownership, Warranty Disclaimer, L
 
 ### 2.1 License Grant
 - You have a worldwide, non-exclusive, non-transferable, perpetual right to use and redistribute the unmodified Cloud for any purpose.
-- You may install or self-host the Cloud for yourself or on behalf of third parties, provided that neither you nor any third party offers it as Software as a Service (SaaS) or in any other multi-tenant service accessible by unrelated users.
+- You may install or self-host the Cloud for yourself or on behalf of third parties and allow any number of users to access it, provided that you do not charge any hosting or usage fees for the Cloud itself.
+- You may charge a fee for professional services (e.g., installation, support, consulting) performed on the customer's own hardware or environment, but you may not operate the Cloud on your own hardware as a paid service for others.
+- Non-commercial (free) SaaS usage is permitted, so long as no direct or indirect fees are charged to end users for access or usage. Any commercial, paid, or otherwise monetized SaaS or multi-tenant offering of the Cloud is strictly prohibited, including bundling the Cloud as part of a paid product or service.
+- The above restriction does not prohibit developing or distributing third-party apps (including paid apps) through the App Store; only monetization of the Cloud itself as a service is disallowed.
 - The Cloud is offered in Freemium and Premium modes. Freemium features are available without a product key. Premium features require a valid, non-transferable product key.
 
 ### 2.2 Restrictions
