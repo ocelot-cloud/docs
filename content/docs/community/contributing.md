@@ -20,4 +20,4 @@ The content of this website/documentation server is publicly available on {{< ex
 
 ### Why do all repositories use the 0BSD license?
 
-The 0BSD license is used because it is highly permissive, effectively equivalent to the public domain, and extremely concise. It eliminates common legal overhead such as attribution requirements or the need to include license copies, making it ideal for minimizing friction in reuse, distribution, and integration.
+The 0BSD license is used because it is highly permissive, effectively equivalent to the public domain, and concise. It eliminates common legal overhead such as attribution requirements or the need to include license copies, making it ideal for minimizing friction in reuse, distribution, and integration.

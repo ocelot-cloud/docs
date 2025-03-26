@@ -7,7 +7,7 @@ no_list: true
 <br> 
 <div style="display: flex; align-items: center; width: 80%;"> 
 <img src="logo.png" alt="My Image" width="150" style="margin-right: 10px;"> 
-<p>Use Ocelot-Cloud to host your IT infrastructure with minimal effort. Self-host to maintain full control of your data. Once installed, even non-technical users can operate it. Installing apps in Ocelot-Cloud is as simple as adding apps on a smartphone. To benefit the public, the core features of Ocelot-Cloud are free.</p> 
+<p>Use Ocelot-Cloud to host your IT infrastructure with minimal effort. Self-host to maintain full control of your data. Once installed and configured, even non-technical users can operate it. Installing apps in Ocelot-Cloud is as simple as adding apps on a smartphone. As part of our commitment to the public good, the core features of Ocelot-Cloud are and will remain free.</p> 
 </div> 
 <br>
 

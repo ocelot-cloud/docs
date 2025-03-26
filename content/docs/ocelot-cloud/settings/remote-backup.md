@@ -2,8 +2,6 @@
 title: "Remote Backup"
 ---
 
-## Introduction
-
 By default, when you create a backup of an app, Ocelot-Cloud will create a local backup of it. However, if remote backups are enabled, an additional remote backup is created and sent to an external SSH server.
 
 {{< alert title="Note" color="warning" >}}
