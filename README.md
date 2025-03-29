@@ -25,7 +25,8 @@ Clone the repository to your local machine and run `hugo server`. Go to `http://
 
 ### Contributing
 
-Please read the [Community](https://ocelot-cloud.org/docs/community/) articles for more information on how to contribute to the project and interact with others.
+Please read the <a href="https://ocelot-cloud.org/docs/community/" target="_blank" rel="noopener">Community</a>
+articles for more information on how to contribute to the project and interact with others.
 
 ### License
 
