@@ -1,5 +1,6 @@
 ---
-title: "Apps and Features"
+title: "Apps"
+weight: 20
 ---
 
 ### Ocelot-Cloud

@@ -1,5 +1,6 @@
 ---
 title: "Features"
+weight: 10
 ---
 
 The goal is to create a solution whose free features meet the needs of casual users. Commercial premium features are for users who need more advanced functionality.

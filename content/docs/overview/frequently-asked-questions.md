@@ -1,5 +1,6 @@
 ---
 title: "Frequently Asked Questions"
+weight: 40
 ---
 
 ### What is Ocelot-Cloud?
