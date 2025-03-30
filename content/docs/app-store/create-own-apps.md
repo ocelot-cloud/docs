@@ -10,6 +10,10 @@ An app is a conceptual label for a software package, such as the software name "
 docker compose up -d
 ```
 
+## Automatic Integration
+
+A properly configured and uploaded version is fully integrated with Ocelot-Cloud, allowing automatic installation, networking, user access management, certificate handling, backups, restores and seamless updates with each new upload.
+
 ## Where to create my own versions?
 
 Go to **My Apps**, create an app, select it, click **Edit**. This is the menu to upload a version for an app.
