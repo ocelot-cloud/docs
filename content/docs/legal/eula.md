@@ -2,7 +2,7 @@
 title: "End-User License Agreement"
 ---
 
-_Last Updated: 26.03.2025_
+_Last Updated: 31.03.2025_
 
 This End User License Agreement ("EULA") governs your use of the Ocelot-Cloud (the "Cloud") and the Ocelot App Store (the "App Store"), collectively the "Products". By accessing or using any of the Products, you agree to be bound by these terms.
 
@@ -80,6 +80,16 @@ You are responsible for complying with all applicable data protection laws when 
 
 ### 2.4 Termination
 If your rights under this EULA are terminated, you must cease all use of the Cloud and destroy all copies in your possession or control. The provisions listed in Section 1.14 shall continue to apply even after termination.
+
+### 2.5 Data Collection
+
+Freemium Usage: We do not require personal data for Freemium features. We may provide an optional, opt-in mechanism for collecting anonymous usage statistics that contain no personal or identifying information.
+
+Premium Usage: For Premium features, we collect only the minimal data needed to verify your license, which may include product keys, IP addresses, and device information. This data may be transmitted to our license server for periodic validation. We store it only for as long as required under applicable law (including GDPR) or to confirm compliance with this EULA.
+
+### 2.6 Third-Party License Verification
+
+For Premium features, we rely on a third-party service (the “License Provider”) to process and validate product keys, which may include collecting or transmitting your product key, IP address, or device information. By using the Premium features, you agree to any applicable terms and policies of the License Provider. The Maintainer is not responsible for the data-handling practices or services of the License Provider.
 
 ---
 
