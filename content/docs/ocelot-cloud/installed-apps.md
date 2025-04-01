@@ -11,7 +11,7 @@ On the Installed Apps page, you can manage your apps. Intuitively, you can:
 * Update apps, which will search for newer version in the App Store and automatically install them
 * Prune apps, which will delete all local and, if enabled, remote backups, as well as delete the app from the database
 
-Apps always have a maintainer and a name for clarity and security. It is not possible to deploy two apps with the same name.
+Apps always have a maintainer and a name for clarity and security. It is not possible to start two apps with the same name.
 
 ### Special Case: ocelotcloud / ocelotdb
 
