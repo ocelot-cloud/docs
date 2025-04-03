@@ -11,7 +11,11 @@ On the Installed Apps page, you can manage your apps. Intuitively, you can:
 * Update apps, which will search for newer version in the App Store and automatically install them
 * Prune apps, which will delete all local and, if enabled, remote backups, as well as delete the app from the database
 
-Apps always have a maintainer and a name for clarity and security. It is not possible to start two apps with the same name.
+### Miscellaneous
+
+* Apps have a state which can be either **Available** or **Uninitialized**. At the moment, the implementation is quite simple, and an app that has been started immediately becomes **Available**. However, in the background, each app can take a moment, sometimes even minutes, to download and launch the containers. So it can take a while before the app is actually available. We will improve this in the future.
+* Apps always have a maintainer and a name for clarity and security.
+* It is not possible to start two apps with the same name.
 
 ### Special Case: ocelotcloud / ocelotdb
 
