@@ -9,7 +9,7 @@ On the Installed Apps page, you can manage your apps. Intuitively, you can:
 * Stop apps
 * Backup apps
 * Update apps, which will search for newer version in the App Store and automatically install them
-* Prune apps, which will delete all local and, if enabled, remote backups, as well as delete the app from the database
+* Prune apps, deletes the Docker containers, network, volumes with persistent storage of the app and removes it from the database. Existing backups are not affected by this operation and can be used to recover the app.
 
 ### Miscellaneous
 

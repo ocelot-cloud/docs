@@ -70,7 +70,7 @@ This feature set supports the foundation of public clouds. Apps can be made publ
 
 ### Auto Setup
 
-To make the deployment of Ocelot-Cloud even easier, we offer premium users the option to get a domain and a corresponding wildcard certificate without any manual intervention. This makes Ocelot-Cloud even more accessible to non-technical users.
+To make the deployment of Ocelot-Cloud even easier, we offer premium users the option to get a domain and a corresponding wildcard certificate without any manual intervention.
 
 ### Monitoring
 
