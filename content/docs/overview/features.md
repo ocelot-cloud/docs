@@ -43,15 +43,18 @@ Create user accounts and assign them to friends, co-workers, etc. so they can ac
 ## Upcoming Features
 | Feature         |      Free       |     Premium     |
 |-----------------|:---------------:| :-------------: |
+| Maintenance      |   {{<checkmark>}}   | {{<checkmark>}} |
+| Public Instance | {{<checkmark>}} | {{<checkmark>}} |
 | OIDC Server     |   {{<cross>}}   | {{<checkmark>}} |
 | Groups          |   {{<cross>}}   | {{<checkmark>}} |
-| Public Instance | {{<checkmark>}} | {{<checkmark>}} |
 | Auto Setup      |   {{<cross>}}   | {{<checkmark>}} |
 | Monitoring      |   {{<cross>}}   | {{<checkmark>}} |
 | Log Collection  |   {{<cross>}}   | {{<checkmark>}} |
 | Notifications   |   {{<cross>}}   | {{<checkmark>}} |
 
-## Feature Description
+### Maintenance
+
+Frequent backups and update installations are performed automatically.
 
 ### OIDC Server
 
