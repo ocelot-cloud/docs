@@ -3,13 +3,13 @@ title: "Installed Apps"
 weight: 10
 ---
 
-On the Installed Apps page, you can manage your apps. Intuitively, you can:
+On the Installed Apps page, you can manage your apps. You can perform the following operations on an app:
 
-* Start apps
-* Stop apps
-* Backup apps
-* Update apps, which will search for newer version in the App Store and automatically install them
-* Delete apps, thoroughly deletes the app's Docker artifacts and removes it from the database. Backups are preserved and can be used for recovery.
+* Start
+* Stop
+* Backup, which creates incremental backups. This means that only the changes since the last backup are backed up. This is useful for saving space and time.
+* Update, which will create a backup of the current app version in case the update fails. Ocelot-Cloud will then search for the latest version of the app in the App Store and install it.
+* Delete, which removes the app from the Ocelot-Cloud database and its artifacts from the system such as its data storage, networks, containers. Although the app is uninstalled, its backups are preserved.
 
 ### Miscellaneous
 
