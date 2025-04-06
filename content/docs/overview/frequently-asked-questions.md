@@ -21,7 +21,7 @@ Self-hosted means you run the software on your own hardware, giving you complete
 
 ### Is Ocelot-Cloud secure?
 
-Practically, yes. Security is a top priority for Ocelot-Cloud, and we've built in extensive protections, including robust cryptographic algorithms, apps running in isolated environments, and frequent security testing. While we prioritize minimizing risk through a security-by-design approach, it's technically impossible to achieve 100% security, and no system is completely immune. We remain committed to ongoing efforts to keep our platform as secure as possible.
+Practically, yes. Security is a top priority for Ocelot-Cloud, and we've built in extensive protections, including robust cryptographic algorithms, apps running in isolated environments, tools frequently analyzing the code for vulnerabilities, and security testing. While we prioritize minimizing risk through a security-by-design approach, it's technically impossible to achieve 100% security, and no system is completely immune. We remain committed to ongoing efforts to keep our platform as secure as possible.
 
 ### Will Ocelot-Cloud spy on my data?
 
