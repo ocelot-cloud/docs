@@ -14,3 +14,14 @@ By default, only official apps provided by us are shown when searching for apps.
 {{< alert title="Note" color="warning" >}}
 Unofficial apps are not moderated by us and may contain malware or other harmful content. We do not recommend installing them unless you trust the maintainer. Installing apps from unknown sources may compromise your server and data.
 {{< /alert >}}
+
+## List of Official Apps
+
+These are the apps of the official maintainer "ocelotcloud" available in the App Store. All of the apps are open source.
+
+| App | Description |
+|-----|-------------|
+| {{< external_link "https://mattermost.com" "Mattermost" >}} | Team messaging platform for secure, self-hosted collaboration. |
+| {{< external_link "https://www.nocodb.com" "NocoDB" >}} | Turns any database into a smart spreadsheet interface. |
+| {{< external_link "https://www.openproject.org" "OpenProject" >}} | Project management software for teams with support for Agile and classic methodologies. |
+| {{< external_link "https://www.xwiki.org" "XWiki" >}} | Advanced wiki platform for collaborative content management. |

@@ -7,6 +7,7 @@ weight: 40
 |------|----------------------------|
 | 0BSD | Zero-Clause BSD License    |
 | CI   | Continuous Integration     |
+| CLI  | Command-Line Interface     |
 | EULA | End User License Agreement |
 | GUI  | Graphical User Interface   |
 | MITM | Man-in-the-middle          |
