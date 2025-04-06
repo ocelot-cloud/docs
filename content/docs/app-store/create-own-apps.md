@@ -121,7 +121,7 @@ This section lists the rules to follow when uploading a version to the App Store
 ### The `docker-compose.yml`:
 
 - May only have the root keywords: `volumes`, `services`.
-- May only use the following service keywords: `image`, `container_name`, `ports`, `volumes`, `depends_on`, `environment`, `deploy:resources`, `tmpfs`.
+- May only use the following service keywords: `image`, `container_name`, `ports`, `volumes`, `depends_on`, `environment`, `deploy:resources`, `tmpfs`, `tty`, `user`, `command`.
 - May only contain services that use at least the keywords `image` and `container_name`.
 - May only contain `volumes` and `container_name` with the prefix `[maintainer]_[appname]_*`. For example, `ocelotcloud_gitea_mariadb`.
 - Must contain one main service by setting the value of its `container_name` to the following pattern `[maintainername]_[appname]_[appname]`. For example, `ocelotcloud_gitea_gitea`. This service is where Ocelot-Cloud expects a web server to be running so that it can proxy HTTP requests to the port and URL path defined in the `app.yml`.
