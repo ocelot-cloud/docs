@@ -3,7 +3,7 @@ title: "Features"
 weight: 10
 ---
 
-The goal is to create a solution whose free features meet the needs of casual users. Commercial premium features are for users who need more advanced functionality.
+The goal is to create a solution whose free features meet the needs of casual users. Commercial premium features are for users who require more advanced functionality. Below are lists of key features and their availability and implementation status.
 
 ## Implemented Features
 
@@ -43,7 +43,6 @@ Create user accounts and assign them to friends, co-workers, etc. so they can ac
 ## Upcoming Features
 | Feature         |      Free       |     Premium     |
 |-----------------|:---------------:| :-------------: |
-| Maintenance      |   {{<checkmark>}}   | {{<checkmark>}} |
 | Public Instance | {{<checkmark>}} | {{<checkmark>}} |
 | OIDC Server     |   {{<cross>}}   | {{<checkmark>}} |
 | Groups          |   {{<cross>}}   | {{<checkmark>}} |
@@ -51,10 +50,6 @@ Create user accounts and assign them to friends, co-workers, etc. so they can ac
 | Monitoring      |   {{<cross>}}   | {{<checkmark>}} |
 | Log Collection  |   {{<cross>}}   | {{<checkmark>}} |
 | Notifications   |   {{<cross>}}   | {{<checkmark>}} |
-
-### Maintenance
-
-Frequent backups and update installations are performed automatically.
 
 ### OIDC Server
 

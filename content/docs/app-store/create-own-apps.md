@@ -135,5 +135,5 @@ This section lists the rules to follow when uploading a version to the App Store
 
 You have complete freedom in designing your app. The following recommendations are not mandatory, but can help improve the user experience. If you are developing an app or can influence its behavior through configuration, consider the following:
 
-• All relevant configuration of the app should be done via the web interface. In particular, you should prompt the first user to create an admin account on first startup, so you don't have to do it from the uploaded configuration files or the CLI.
-• Rely on a centralized, trusted administrator for control. Disable self-registration by default.
+* All relevant configuration of the app should be done via the web interface. In particular, you should prompt the first user to create an admin account on first startup, so you don't have to do it from the uploaded configuration files or the CLI.
+* Rely on a centralized, trusted administrator for control. Disable self-registration by default.
