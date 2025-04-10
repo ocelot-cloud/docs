@@ -3,9 +3,7 @@ title: "Features"
 weight: 10
 ---
 
-The goal is to create a solution whose free features meet the needs of casual users. Commercial premium features are for users who require more advanced functionality. Below are lists of key features and their availability and implementation status.
-
-## Implemented Features
+The goal is to create a solution whose free features meet the needs of casual users. Commercial premium features are for users who require more advanced functionality. Below are lists of key features that have been implemented or will be implemented in the near future.
 
 | Feature      |      Free       |     Premium     |
 |--------------| :-------------: | :-------------: |
@@ -15,6 +13,13 @@ The goal is to create a solution whose free features meet the needs of casual us
 | Backups      | {{<checkmark>}} | {{<checkmark>}} |
 | Certificates | {{<checkmark>}} | {{<checkmark>}} |
 | Users        | {{<checkmark>}} | {{<checkmark>}} |
+| Public Instance | {{<checkmark>}} | {{<checkmark>}} |
+| OIDC Server     |   {{<checkmark>}}   | {{<checkmark>}} |
+| Groups          |   {{<cross>}}   | {{<checkmark>}} |
+| Auto Setup      |   {{<cross>}}   | {{<checkmark>}} |
+| Monitoring      |   {{<cross>}}   | {{<checkmark>}} |
+| Log Collection  |   {{<cross>}}   | {{<checkmark>}} |
+| Notifications   |   {{<cross>}}   | {{<checkmark>}} |
 
 ### Apps Store
 
@@ -39,17 +44,6 @@ Ocelot-Cloud automatically manages wildcard certificates that encrypt the networ
 ### Users
 
 Create user accounts and assign them to friends, co-workers, etc. so they can access the apps.
-
-## Upcoming Features
-| Feature         |      Free       |     Premium     |
-|-----------------|:---------------:| :-------------: |
-| Public Instance | {{<checkmark>}} | {{<checkmark>}} |
-| OIDC Server     |   {{<cross>}}   | {{<checkmark>}} |
-| Groups          |   {{<cross>}}   | {{<checkmark>}} |
-| Auto Setup      |   {{<cross>}}   | {{<checkmark>}} |
-| Monitoring      |   {{<cross>}}   | {{<checkmark>}} |
-| Log Collection  |   {{<cross>}}   | {{<checkmark>}} |
-| Notifications   |   {{<cross>}}   | {{<checkmark>}} |
 
 ### OIDC Server
 
