@@ -37,13 +37,20 @@ By hosting your own cloud with Ocelot-Cloud, you eliminate the need to trust ext
 
 ### How does Ocelot-Cloud compare to Proton?
 
-{{< external_link "https://proton.me/" "Proton" >}} offers services that allow users to upload data to its servers in an end-to-end encrypted form, ensuring that only the user, not even Proton, can read the data. Proton provides free client software that transparently manages the encryption, uploading and downloading process. While this approach offers greater privacy than traditional cloud providers, it has certain limitations compared to self-hosting:
+{{< external_link "https://proton.me/" "Proton" >}} offers services that allow users to upload data to its servers in an end-to-end encrypted form, ensuring that only the user, not even Proton, can read the data. Proton provides free client software that transparently manages encryption and decryption on the user's device, as well as uploading and downloading data to the external Proton servers. Although Proton offers better privacy than traditional cloud providers, it has certain limitations compared to self-hosting:
 * **Metadata Collection**: Proton can still collect metadata about user activity, such as timestamps, IP addresses, and interaction patterns, which can provide insight into usage even when content remains private.
 * **Legal Compliance**: Proton is subject to the laws of the country in which it operates (Switzerland). If a government requests collected data or imposes certain regulations, such as monitoring your activity, Proton must comply, even if they don't want to, which could compromise user privacy.
 * **Internet Exposure**: Proton's servers are accessible via the Internet, creating potential attack vectors. In contrast, self-hosted infrastructure can be installed in a private network, reducing exposure to Internet-based threats.
 * **Limited Customization**: Because Proton manages its own servers, users cannot customize the infrastructure or integrate additional apps. Self-hosting provides full control over software, configurations, and custom integrations.
 * **Vendor Lock-In**: Users are subject to Proton's pricing and policies, as the company maintains full control over its servers. A potentially costly data migration may be required if their terms become unfavorable.
 
+Ocelot-Cloud can be used as a SaaS. You can install end-to-end encrypted apps like {{< external_link "https://www.vaultwarden.net/" "Vaultwarden" >}} or {{< external_link "https://cryptpad.org/" "Cryptpad" >}} bringing a similar mix of convenience and privacy as Proton. But with Ocelot-Cloud you have the option to switch to self-hosting with ease at any time.
+
+### How do I migrate from self-hosted to SaaS or vice versa?
+
+Migration with Ocelot-Cloud is straightforward. The key feature is the creation of remote backups on external servers. In order to migrate e.g., from SaaS to self-hosted, you simply create backups of all apps in a remote repository. Then you set up your own server, install Ocelot-Cloud, configure access to the remote repository and restore the backups from the remote backup server.
+
 ### What hardware do I need to run Ocelot-Cloud?
 
 Ocelot-Cloud is designed to be resource efficient, so it can run on minimal hardware. The actual hardware requirements depend on the apps you install. To determine the right hardware, check the CPU, memory, and disk space requirements of each app. If you're unsure, choose a system with more resources. For environments with limited hardware, you can explicitly choose hardware-efficient apps that allow the Ocelot-Cloud infrastructure to run on low-end devices.
+
