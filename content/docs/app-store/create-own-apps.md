@@ -2,7 +2,11 @@
 title: "Creating Own Apps"
 ---
 
-## What are apps and versions?
+## App Store Requirements
+
+Any software with a web interface can become an app. You simply need to have a publicly available Docker image containing the software and follow the steps below to create an app in the App Store. When the configuration is done right, Ocelot-Cloud will handle the installation, networking, user access management, certificate handling, backups and updates.
+
+## Apps and Versions
 
 An app is a conceptual label for a software package, such as the software name "gitea" for a source code management software. The detailed configuration required to install an app is defined in its versions. Each version ships with a docker-compose.yml and optionally an app.yml for Ocelot-Cloud integration. Simply put, once installed, Ocelot-Cloud simply runs:
 
