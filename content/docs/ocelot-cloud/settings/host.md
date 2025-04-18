@@ -7,4 +7,4 @@ The host value is needed to access installed apps. For example, if you set the h
 
 For local testing, you can simply use **localhost** as the host value.
 
-Note: This requires that the domain (e.g. gitea.company.com) resolves to the server where Ocelot-Cloud is installed, either via a DNS record or an entry in your system's hosts file.
+Note: This proxying requires that the domain (e.g. gitea.company.com) resolves to the server where Ocelot-Cloud is installed, either via a DNS record or an entry in your system's hosts file.
