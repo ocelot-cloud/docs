@@ -2,11 +2,11 @@
 title: "Creating Own Apps"
 ---
 
-## App Store Requirements
+### App Store Requirements
 
 Any software with a web interface can become an app. You simply need to have a publicly available Docker image containing the software and follow the steps below to create an app in the App Store. When the configuration is done right and the app is installed in Ocelot-Cloud, it will handle networking, certificate handling, backups and updates in the background.
 
-## Apps and Versions
+### Apps and Versions
 
 An app is a conceptual label for a software package, such as the software name "gitea" for a source code management software. The detailed configuration required to install an app is defined in its versions. Each version ships with a docker-compose.yml and optionally an app.yml for Ocelot-Cloud integration. Simply put, once installed, Ocelot-Cloud simply runs:
 
@@ -14,11 +14,11 @@ An app is a conceptual label for a software package, such as the software name "
 docker compose up -d
 ```
 
-## Where to create my own versions?
+### Where to create my own versions?
 
 Go to **My Apps**, create an app, select it, click **Edit**. This is the menu to upload a version for an app.
 
-## Minimal Example
+### Minimal Example
 
 Here is a minimal example `docker-compose.yml` file suitable for upload:
 
@@ -57,7 +57,7 @@ networks:
 
 This means that restarting, networking, and reducing the default capabilities are automatically taken care of in the background, keeping the `docker-compose.yml` upload lean.
 
-## Full Example
+### Full Example
 
 Here is an example of a `docker-compose.yml` that can be uploaded in a zip using multiple keywords:
 
@@ -87,7 +87,7 @@ services:
           memory: 256M
 ```
 
-## Configuration for Ocelot-Cloud
+### Configuration for Ocelot-Cloud
 
 You may also need to define an `app.yml` that will automatically integrate the container correctly into Ocelot-Cloud. If missing, Ocelot-Cloud tries to redirect HTTP requests to port 80 to the path "/" of the main container "gitea". Here is an example:
 
@@ -96,7 +96,7 @@ port: 3000
 url_path: "/"
 ```
 
-## Packaging and Upload
+### Packaging and Upload
 
 This `app.yml` causes HTTP requests with target `http(s)://gitea.'your-host-domain'` received by Ocelot-Cloud to be proxied to port 3000 of the `gitea` container, where the Gitea web server is listening.
 
@@ -108,17 +108,17 @@ zip 1.20.2.zip app.yml docker-compose.yml
 
 **Tip:** Versions are usually named after the version number of the main service they are meant to deploy. It is recommended to use version names that correspond to the version of the main service, in this case "gitea", like this `1.20.2.zip`.
 
-## Conventions and Restrictions
+### Conventions and Restrictions
 
 This section lists the rules to follow when uploading a version to the App Store. Do not be afraid to upload, the server will automatically check the files for compliance with these rules. If a rule is broken, the upload will fail and the server will provide helpful feedback on what needs to be fixed. Even successfully uploaded versions can be easily deleted if you made a mistake.
 
-### The version zip file:
+The version zip file:
 
 - Must contain a `docker-compose.yml`.
 - May contain an optional `app.yml`.
 - Must not contain other files.
 
-### The `docker-compose.yml`:
+The `docker-compose.yml`:
 
 - May only have the root keywords: `volumes`, `services`.
 - May only use the following service keywords: `image`, `container_name`, `ports`, `volumes`, `depends_on`, `environment`, `deploy:resources`, `tmpfs`, `tty`, `user`, `command`.
@@ -127,11 +127,11 @@ This section lists the rules to follow when uploading a version to the App Store
 - Must contain one main service by setting the value of its `container_name` to the following pattern `[maintainername]_[appname]_[appname]`. For example, `ocelotcloud_gitea_gitea`. This service is where Ocelot-Cloud expects a web server to be running so that it can proxy HTTP requests to the port and URL path defined in the `app.yml`.
 - May only contain values for the `image` keyword with a tag of a deterministic version, e.g., `gitea/gitea:1.20.2` but not `gitea/gitea` or `gitea/gitea:latest`. This ensures reproducibility.
 
-### The `app.yml`:
+The `app.yml`:
 
 - May contain the keywords: `port` and `url_path`. If not set, they default to port 80 and `/`.
 
-## App Design Recommendations
+### App Design Recommendations
 
 You have complete freedom in designing your app. The following recommendations are not mandatory, but can help improve the user experience. If you are developing an app or can influence its behavior through configuration, consider the following:
 

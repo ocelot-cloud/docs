@@ -25,7 +25,7 @@ export EMAIL=user@sample.com
 ./wildcert
 ```
 
-Just follow the tool's instructions. The email address is optional, but if set, it will be used for Let's Encrypt notifications to let you know when your certificate is about to expire. The **fullchain.pem** file is generated and placed in the **certs** directory. It contains the keys and certificates for the domains ***.sample.com** and **sample.com**. The certificate will be valid for 90 days.
+Just follow the tool's instructions. The email address is optional, but if set, it will be used for Let's Encrypt notifications to let you know when your certificate is about to expire. The **fullchain.pem** file is generated and saved in the current directory. It contains the keys and certificates for the domains ***.sample.com** and **sample.com**. The certificate will be valid for 90 days.
 
 ## Custom Wildcard Certificates
 

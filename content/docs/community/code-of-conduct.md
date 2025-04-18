@@ -2,16 +2,21 @@
 title: "Code of Conduct"
 ---
 
-The purpose of this Code of Conduct is to ensure a welcoming and respectful environment for all participants in our software project. This code applies to all contributors, maintainers and users.
+We are committed to a professional, productive, and welcoming environment for everyone involved in this project - contributors, maintainers, and users alike.
 
 ### Expected Behavior
 
-Treat others with respect and consideration. Create an inclusive environment where everyone feels welcome. Feel free to offer constructive feedback and criticism to improve the project.
+* Act with courtesy, respect, and empathy. 
+* Foster an inclusive atmosphere that values diverse perspectives. 
+* Offer constructive, actionable feedback oriented toward improving the project. 
+* Collaborate in good faith to achieve shared goals and high‑quality outcomes.
 
 ### Unacceptable Behavior
 
-Any form of harassment, discrimination, abusive, inflammatory comments, personal attacks or the use of derogatory language is strictly prohibited.
+* Harassment, discrimination, or personal attacks. 
+* Derogatory, inflammatory, or otherwise abusive language. 
+* Sustained disruption of discussions or workflows.
 
-### Consequences
+### Enforcement
 
-Those who violate the Code of Conduct will typically receive a warning and, if repeated, a temporary or permanent ban. Enforcement of the Code will be fair and consistent, ensuring a safe and respectful environment for all.
+Violations will result in consequences proportionate to the severity and frequency of the behavior, ranging from a warning to temporary or permanent removal from project spaces. Enforcement will be consistent, transparent, and guided by this Code.

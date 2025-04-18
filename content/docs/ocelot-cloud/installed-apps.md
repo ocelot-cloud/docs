@@ -7,14 +7,13 @@ On the Installed Apps page, you can manage your apps. You can perform the follow
 
 * Start
 * Stop
-* Backup, which creates incremental backups. This means that only the changes since the last backup are backed up. This is useful for saving space and time.
-* Update, which will create a backup of the current app version in case the update fails. Ocelot-Cloud will then search for the latest version of the app in the App Store and install it.
-* Delete, which removes the app from the Ocelot-Cloud database and its artifacts from the system such as its data storage, networks, containers. Although the app is uninstalled, its backups are preserved.
+* Backup
+* Update, which will create a backup and then install the latest version of the app.
+* Delete, which removes the app and its artifacts; only its backups are preserved.
 
 ### Miscellaneous
 
 * Apps have a state which can be either **Available** or **Uninitialized**. At the moment, the implementation is quite simple, and an app that has been started immediately becomes **Available**. However, in the background, each app can take a moment, sometimes even minutes, to download and launch the containers. So it can take a while before the app is actually available. We will improve this in the future.
-* Apps always have a maintainer and a name for clarity and security.
 * It is not possible to start two apps with the same name.
 
 ### Special Case: ocelotcloud / ocelotdb

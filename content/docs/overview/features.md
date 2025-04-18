@@ -43,7 +43,7 @@ Ocelot-Cloud automatically manages wildcard certificates that encrypt the networ
 
 ### Users
 
-Create user accounts and assign them to friends, co-workers, etc. so they can access the apps.
+Create user accounts and assign them to other people to grant them access to the apps.
 
 ### OIDC Server
 

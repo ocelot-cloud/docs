@@ -8,16 +8,16 @@ This GitHub repositories are not a support forum. For technical support, please 
 
 ### Report bugs
 
-If you find a bug, please open an issue in the {{<external_link "https://github.com/ocelot-cloud/issue-tracker" "GitHub Issue Tracker">}} with a clear title and detailed description. Include the steps to reproduce the bug, the expected result, and the actual result. If possible, include screenshots or logs. Tag the issue as a bug.
+If you find a bug, please open an issue in the {{<external_link "https://github.com/ocelot-cloud/issue-tracker" "GitHub Issue Tracker">}} with a clear title and detailed description. Include the steps to reproduce the bug, the expected result, and the actual result. If possible, include screenshots or logs. Tag the issue as a **bug**.
 
 ### Enhancements
 
-If you have an idea for improving the project, such as a feature request, you can submit your suggestion as a GitHub issue in the same repository. In the former case, describe the feature and its benefits. Label the issue as "enhancement".
+If you have an idea for improving the project, such as a feature request, you can submit your suggestion as a GitHub issue in the same repository. In the former case, describe the feature and its benefits. Label the issue as **enhancement**.
 
 ### Improve Documentation
 
-The content of this website/documentation server is publicly available on {{< external_link "https://github.com/ocelot-cloud/docs" "GitHub" >}}. If you find a typo, missing information, or have suggestions for improvement, please submit a PR with your changes. The links at the top of the right navigation bar can help you. The documentation is written in Markdown and deployed using the {{< external_link "https://www.docsy.dev/" "Docsy theme" >}} for {{< external_link "https://gohugo.io/" "Hugo" >}}. More detailed development instructions can be found in the `README.md` file.
+The content of this website/documentation server is publicly available at {{< external_link "https://github.com/ocelot-cloud/docs" "GitHub" >}}. If you find a typo, missing information, or have suggestions for improvement, ideally submit a PR with your changes, or second best, write your proposed, **fully formulated** changes in the issue. The links at the top of the right navigation bar can help you. The documentation is written in Markdown and deployed using the {{< external_link "https://www.docsy.dev/" "Docsy theme" >}} for {{< external_link "https://gohugo.io/" "Hugo" >}}. More detailed development instructions can be found in the `README.md` file.
 
-### Why do all repositories use the 0BSD license?
+### Why do the repositories use the 0BSD license?
 
 The 0BSD license is used because it is highly permissive, effectively equivalent to the public domain, and concise. It eliminates common legal overhead such as attribution requirements or the need to include license copies, making it ideal for minimizing friction in reuse, distribution, and integration.

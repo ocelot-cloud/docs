@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions"
+title: "FAQ"
 weight: 40
 ---
 
@@ -41,7 +41,7 @@ By hosting your own cloud with Ocelot-Cloud, you eliminate the need to trust ext
 * **Metadata Collection**: Proton can still collect metadata about user activity, such as timestamps, IP addresses, and interaction patterns, which can provide insight into usage even when content remains private.
 * **Legal Compliance**: Proton is subject to the laws of the country in which it operates (Switzerland). If a government requests collected data or imposes certain regulations, such as monitoring your activity, Proton must comply, even if they don't want to, which could compromise user privacy.
 * **Internet Exposure**: Proton's servers are accessible via the Internet, creating potential attack vectors. In contrast, self-hosted infrastructure can be installed in a private network, reducing exposure to Internet-based threats.
-* **Limited Customization**: Because Proton manages its own servers, users cannot customize the infrastructure or integrate additional apps. Self-hosting provides full control over software, configurations, and custom integrations.
+* **Limited Features and Customization**: Because Proton manages its own servers, users cannot customize the infrastructure or integrate additional apps. Self-hosting provides full control over software, configurations, and custom integrations.
 * **Vendor Lock-In**: Users are subject to Proton's pricing and policies, as the company maintains full control over its servers. A potentially costly data migration may be required if their terms become unfavorable.
 
 Ocelot-Cloud can be used as a SaaS. You can install end-to-end encrypted apps like {{< external_link "https://www.vaultwarden.net/" "Vaultwarden" >}} or {{< external_link "https://cryptpad.org/" "Cryptpad" >}} bringing a similar mix of convenience and privacy as Proton. But with Ocelot-Cloud you have the option to switch to self-hosting with ease at any time.
@@ -52,5 +52,4 @@ Migration with Ocelot-Cloud is straightforward. The key feature is the creation 
 
 ### What hardware do I need to run Ocelot-Cloud?
 
-Ocelot-Cloud is designed to be resource efficient, so it can run on minimal hardware. The actual hardware requirements depend on the apps you install. To determine the right hardware, check the CPU, memory, and disk space requirements of each app. If you're unsure, choose a system with more resources. For environments with limited hardware, you can explicitly choose hardware-efficient apps that allow the Ocelot-Cloud infrastructure to run on low-end devices.
-
+The processor must be based on the AMD64 architecture. Ocelot-Cloud is designed to be resource efficient, so it can run on low-end hardware. The actual hardware requirements depend on the apps you install. To determine the right hardware, check the CPU, memory, and disk space requirements of each app. If you're unsure, choose a system with more resources. For environments with limited hardware, you can explicitly choose hardware-efficient apps that allow the Ocelot-Cloud infrastructure to run on low-end devices.
