@@ -5,7 +5,7 @@ title: "EULA Simplified Overview"
 This quick summary helps you understand the main points of our EULA but is not legally binding. The full EULA always takes precedence if there's any conflict.
 
 - **Freemium Model**: Core features are free. Advanced (premium) features require a paid product key.
-- **Data Collection**: We don't collect personal information when using freemium features. We may collect personal information for licence verification when using premium features.
+- **Data Collection**: We don't collect personal information when using freemium features. We may collect personal information and device information to ensure license verification and compliance when using premium features, but we try to keep this to a minimum.
 - **Commercial vs. Non-Commercial Use**: You can use Ocelot-Cloud freely for any non-commercial purpose. You can charge for installing and supporting Ocelot-Cloud on someone else’s hardware, but you **cannot** offer Ocelot-Cloud as a paid Software as a Service (SaaS) or bundle it as part of a paid service.
 - **Prohibited Actions**: Don’t break security, distribute viruses, misrepresent content, or try to bypass license/feature restrictions.
 - **User Responsibility**: You assume all risks when downloading or uploading content. If you host Ocelot-Cloud for others, you must comply with all relevant privacy laws.
