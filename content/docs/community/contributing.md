@@ -16,7 +16,7 @@ If you have an idea for improving the project, such as a feature request, you ca
 
 ### Improve Documentation
 
-The content of this website/documentation server is publicly available on {{< external_link "https://github.com/ocelot-cloud/docs" "GitHub" >}}. If you find a typo, missing information, or have suggestions for improvement, please submit a PR with your changes. The links at the top of the right navigation bar can help you. of The documentation is written in Markdown and deployed using the {{< external_link "https://www.docsy.dev/" "Docsy theme" >}} for {{< external_link "https://gohugo.io/" "Hugo" >}}. More detailed development instructions can be found in the `README.md` file.
+The content of this website/documentation server is publicly available on {{< external_link "https://github.com/ocelot-cloud/docs" "GitHub" >}}. If you find a typo, missing information, or have suggestions for improvement, please submit a PR with your changes. The links at the top of the right navigation bar can help you. The documentation is written in Markdown and deployed using the {{< external_link "https://www.docsy.dev/" "Docsy theme" >}} for {{< external_link "https://gohugo.io/" "Hugo" >}}. More detailed development instructions can be found in the `README.md` file.
 
 ### Why do all repositories use the 0BSD license?
 
