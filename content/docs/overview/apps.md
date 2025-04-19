@@ -18,6 +18,9 @@ These are the apps of the official maintainer **ocelotcloud** available in the A
 | App | Description |
 |-----|-------------|
 | {{< external_link "https://mattermost.com" "Mattermost" >}} | Team messaging platform for secure, self-hosted collaboration. |
+| {{< external_link "https://www.xwiki.org" "XWiki" >}} | Advanced wiki platform for collaborative content management. |
+
+<!-- TODO
 | {{< external_link "https://www.nocodb.com" "NocoDB" >}} | Turns any database into a smart spreadsheet interface. |
 | {{< external_link "https://www.openproject.org" "OpenProject" >}} | Project management software for teams with support for Agile and classic methodologies. |
-| {{< external_link "https://www.xwiki.org" "XWiki" >}} | Advanced wiki platform for collaborative content management. |
+-->
